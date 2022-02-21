@@ -1,5 +1,7 @@
 # Java-OOP
 
+Object Oriented Programming concept in Java
+
 ![java-logo-vert-blk](https://user-images.githubusercontent.com/29379856/155002372-bc65017d-e70a-4932-8930-671730ad567d.png)
 
 
